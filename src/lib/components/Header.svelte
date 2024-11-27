@@ -31,31 +31,6 @@
     font-size: 25px;
     font-weight: 700;
   }
-  .reload {
-    font-size: 22px;
-    cursor: pointer;
-  }
-  button {
-    background: none;
-    color: inherit;
-    border: none;
-    padding: 0;
-    font: inherit;
-    cursor: pointer;
-    outline: inherit;
-  }
-  img {
-    height: 30px;
-  }
-  h6 {
-    font-weight: 300;
-  }
-  .user {
-    cursor: pointer;
-  }
-  .user:hover {
-    color: #43a6a3 !important;
-  }
   .frequency-text {
     font-size: 35px;
     font-weight: 700;

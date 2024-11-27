@@ -13,8 +13,4 @@
     font-size: 18px;
     font-weight: 700;
   }
-  i {
-    border: none;
-    font-size: 25px;
-  }
 </style>

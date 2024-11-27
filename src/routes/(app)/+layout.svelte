@@ -2,7 +2,6 @@
 	import Header from '../../lib/components/Header.svelte';
 	import HeaderMob from '../../lib/components/mobile/Header.svelte';
 	import { onMount } from 'svelte';
-	import LogOut from '../../lib/components/mobile/LogOut.svelte';
 
 	let lvsw1Data = [];
 
@@ -58,7 +57,6 @@
 	<div class="content">
 		<slot />
 	</div>
-	<LogOut />
 </main>
 
 <style>
